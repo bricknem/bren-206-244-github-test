@@ -1,6 +1,7 @@
 ---
 title: "ESM 206/244 GitHub Testing"
 output: html_document
+name: Margaret Brickner
 ---
 
 ```{r setup, include=FALSE}
@@ -18,6 +19,8 @@ blue <- 10
 red <- 15
 
 purple <- blue/red
+
+sparkle <- blue*red
 
 ```
 
